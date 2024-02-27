@@ -2,3 +2,5 @@
 *.exe
 
 *_templ.go
+
+db/main.db
